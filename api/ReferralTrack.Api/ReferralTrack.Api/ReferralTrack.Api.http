@@ -1,0 +1,6 @@
+@ReferralTrack.Api_HostAddress = http://localhost:5205
+
+GET {{ReferralTrack.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
